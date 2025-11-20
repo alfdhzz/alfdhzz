@@ -18,3 +18,10 @@ I am an Informatics Engineering student at Universitas Bani Saleh and an active 
 [![](https://visitcount.itsvg.in/api?id=alfdhzz&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfdhzz/alfdhzz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alfdhzz/alfdhzz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alfdhzz/alfdhzz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
