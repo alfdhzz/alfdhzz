@@ -1,8 +1,11 @@
 <h1 align="left">Hi, I'm Alif Fajdhan Yudhistiro</h1>
 
 ## About Me:
-I am an Informatics Engineering student at Universitas Bani Saleh and an active member of HMTI. I have skills in web development using HTML, CSS, JavaScript, PHP, Bootstrap, and TailwindCSS, as well as experience with Python for scripting. I am also proficient in MySQL and networking using Cisco, including concepts such as VLSM and OSPF. I continue to develop my abilities through practical projects and ongoing learning.
+I am an Informatics Engineering student at Universitas Bani Saleh Bekasi with a strong ambition to become a fullstack web developer. I focus on building modern, scalable, and user-centered web applications that deliver real value.
 
+I am currently developing my skills across both frontend and backend technologies, including HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React, Next.js, Node.js, and PHP. I enjoy transforming ideas into functional applications, from designing intuitive user interfaces to building efficient backend systems.
+
+In my learning process, I leverage AI-assisted development tools to enhance productivity, improve code quality, and accelerate problem-solving. I am continuously strengthening my fundamentals through hands-on projects and practical implementation.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alfdhzz_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alfdhzz_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCWesKYiiuhlzM8cPlvDI36g) 
